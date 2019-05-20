@@ -1,6 +1,6 @@
-# Mini YouTube
+# MY YouTube
 
-[![MiniYouTube](https://img.shields.io/badge/Mini-YouTube-orange.svg?style=for-the-badge&logo=youtube)](https://github.com/zcam007/MyYoutube/) [![MiniYouTube](https://img.shields.io/badge/React-App-teal.svg?style=for-the-badge&logo=react)](https://github.com/zcam007/MyYoutube/) [![Youtube API](https://img.shields.io/badge/YouTube-API-critical.svg?style=for-the-badge&logo=youtube)](https://developers.google.com/youtube/v3/getting-started)
+[![MyYouTube](https://img.shields.io/badge/React-App-teal.svg?style=for-the-badge&logo=react)](https://github.com/zcam007/MyYoutube/) [![Youtube API](https://img.shields.io/badge/YouTube-API-critical.svg?style=for-the-badge&logo=youtube)](https://developers.google.com/youtube/v3/getting-started)
 
 ### A React App using YouTube API
 
