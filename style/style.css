@@ -2,9 +2,11 @@ body{
   font-family: 'Montserrat', sans-serif;
 }
 .title{
+  position: relative;
+  top: 5px;
   text-align: center;
   font-weight: bold;
-  font-family: 'Anton', sans-serif;
+  font-family:  'Macondo Swash Caps', cursive,'Montserrat',sans-serif;
 }
 .search-bar{
   margin: 20px;
@@ -26,7 +28,7 @@ body{
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
 }
-.video-title : hover{
+.video-title: hover{
   font-weight: bold;
 }
 .video-detail .details{

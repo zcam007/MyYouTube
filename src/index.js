@@ -1,5 +1,5 @@
 /**
- * @author Vinit Shahdeo
+ * @author ChandraMouli R
  * @description a web app using youtube api
  */
 // creating a component
